@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "roumit.github.io/pvmonitor/static/css/main.c8f68524.chunk.css",
-    "main.js": "roumit.github.io/pvmonitor/static/js/main.19a26a40.chunk.js",
-    "main.js.map": "roumit.github.io/pvmonitor/static/js/main.19a26a40.chunk.js.map",
-    "runtime~main.js": "roumit.github.io/pvmonitor/static/js/runtime~main.8a12dc1b.js",
-    "runtime~main.js.map": "roumit.github.io/pvmonitor/static/js/runtime~main.8a12dc1b.js.map",
-    "static/js/2.19199a4d.chunk.js": "roumit.github.io/pvmonitor/static/js/2.19199a4d.chunk.js",
-    "static/js/2.19199a4d.chunk.js.map": "roumit.github.io/pvmonitor/static/js/2.19199a4d.chunk.js.map",
-    "index.html": "roumit.github.io/pvmonitor/index.html",
-    "precache-manifest.7964b31af560024589dd0dc47d71cae5.js": "roumit.github.io/pvmonitor/precache-manifest.7964b31af560024589dd0dc47d71cae5.js",
-    "service-worker.js": "roumit.github.io/pvmonitor/service-worker.js",
-    "static/css/main.c8f68524.chunk.css.map": "roumit.github.io/pvmonitor/static/css/main.c8f68524.chunk.css.map",
-    "static/media/logo.svg": "roumit.github.io/pvmonitor/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pvmonitor/static/css/main.c8f68524.chunk.css",
+    "main.js": "/pvmonitor/static/js/main.4869da7a.chunk.js",
+    "main.js.map": "/pvmonitor/static/js/main.4869da7a.chunk.js.map",
+    "runtime~main.js": "/pvmonitor/static/js/runtime~main.385b4479.js",
+    "runtime~main.js.map": "/pvmonitor/static/js/runtime~main.385b4479.js.map",
+    "static/js/2.19199a4d.chunk.js": "/pvmonitor/static/js/2.19199a4d.chunk.js",
+    "static/js/2.19199a4d.chunk.js.map": "/pvmonitor/static/js/2.19199a4d.chunk.js.map",
+    "index.html": "/pvmonitor/index.html",
+    "precache-manifest.92f5daa562a3af2fff4d33849bc2e311.js": "/pvmonitor/precache-manifest.92f5daa562a3af2fff4d33849bc2e311.js",
+    "service-worker.js": "/pvmonitor/service-worker.js",
+    "static/css/main.c8f68524.chunk.css.map": "/pvmonitor/static/css/main.c8f68524.chunk.css.map",
+    "static/media/logo.svg": "/pvmonitor/static/media/logo.5d5d9eef.svg"
   }
 }
